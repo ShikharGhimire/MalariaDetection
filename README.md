@@ -3,7 +3,7 @@ Detecting different types of blood cells including those infected from Malaria.
 
 Malaria sample images:
 
-![Alt text](/relative/path/to/Malaria screenshot.png?raw=true "Optional Title")
+![image](https://{github.com/ShikharGhimire/MalariaDetection/blob/main/Malaria%20screenshot.png})
 
 
 Yolo algorithm was used
