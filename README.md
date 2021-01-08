@@ -9,5 +9,10 @@ Malaria sample images:
     <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/Malaria%20screenshot.png" width="600px"</img> 
 </div>
 
+### Brute Force Technique
 
-Yolo algorithm was used
+rectangle.patches was used. How does rectangle.patches work?
+
+<div align="left">
+    <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/rectangle.JPG" width="600px"</img> 
+</div>
