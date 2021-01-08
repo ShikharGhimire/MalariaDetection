@@ -14,5 +14,8 @@ Malaria sample images:
 Rectangle.patches was used. How does rectangle.patches work?
 
 <div align="left">
-    <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/rectangle.JPG" width="600px"</img> 
+    <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/malariabb.JPG" width="600px"</img> 
 </div>
+
+Result:
+
