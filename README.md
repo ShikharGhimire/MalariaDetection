@@ -11,7 +11,7 @@ Malaria sample images:
 
 ### Brute Force Technique
 
-rectangle.patches was used. How does rectangle.patches work?
+Rectangle.patches was used. How does rectangle.patches work?
 
 <div align="left">
     <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/rectangle.JPG" width="600px"</img> 
