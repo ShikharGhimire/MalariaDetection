@@ -17,7 +17,7 @@ Rectangle.patches was used. How does rectangle.patches work?
     <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/rectangle.JPG" width="600px"</img> 
 </div>
 
-### The Result
+### BruteForce Result
 
 <div align="left">
     <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/malariabb.JPG" width="600px"</img> 
