@@ -23,5 +23,4 @@ Rectangle.patches was used. How does rectangle.patches work?
     <img src="https://github.com/ShikharGhimire/MalariaDetection/blob/main/malariabb.JPG" width="600px"</img> 
 </div>
 
-Result:
-
+# Paused it because of GPU issues
